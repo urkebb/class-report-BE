@@ -5,7 +5,6 @@ module.exports = () => {
 
     const router = express.Router();
     router.use('/report', reportRoutes);
-
     return router;
 
 };
