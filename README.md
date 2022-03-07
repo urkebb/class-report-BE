@@ -3,6 +3,10 @@
 Make sure you have installed Node which you can find [here](https://nodejs.org/en/download/), this project using version 14.15.3,
 After that just run `npm install` to install all the packages.
 
+## Start server
+
+Run `npm start` to start a server.
+
 ## Description
 
 - Backend part uses NodeJS and Express.
